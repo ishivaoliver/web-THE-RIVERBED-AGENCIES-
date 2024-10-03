@@ -98,7 +98,7 @@ header {
 /* Hero Section */
 
 .hero {
-    background: url('/images/3915891.jpg') no-repeat center center/cover;
+    background: url('https://images.pexels.com/photos/11542516/pexels-photo-11542516.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat center center/cover;
     height: 80vh;
     display: flex;
     flex-direction: column;
